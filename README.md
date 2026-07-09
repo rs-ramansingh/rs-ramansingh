@@ -1,5 +1,4 @@
 # 💫 About Me
----
 
 
 📊 Building at the intersection of Data, Finance & Product strategy
