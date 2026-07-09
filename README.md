@@ -1,3 +1,7 @@
+# 💫 About Me
+---
+
+
 📊 Building at the intersection of Data, Finance & Product strategy
 
 Currently exploring how data can drive better business decisions through product analytics, financial analysis, and technology-driven solutions. I build projects using Python, Pandas, and Tableau to transform raw data into meaningful insights.
